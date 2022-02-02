@@ -1,0 +1,15 @@
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\code2.exe
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\code2.deps.json
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\code2.runtimeconfig.json
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\code2.dll
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\ref\code2.dll
+D:\MSU\sem6\dotnet\Assignment3\code2\bin\Debug\net6.0\code2.pdb
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.csproj.AssemblyReference.cache
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.AssemblyInfoInputs.cache
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.AssemblyInfo.cs
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.csproj.CoreCompileInputs.cache
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.dll
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\ref\code2.dll
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.pdb
+D:\MSU\sem6\dotnet\Assignment3\code2\obj\Debug\net6.0\code2.genruntimeconfig.cache
